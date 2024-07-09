@@ -42,7 +42,7 @@ body{
 }
 .home{
     height: 100vh;
-    background-image: url(../Images/ddd.jpg);
+    background-image: url(../images/ddd.jpg);
     position: relative;
 }
 .home-overlay{
@@ -290,7 +290,6 @@ visibility: visible;
     color: rgb(53, 161, 250);
     font-size: 35px;
 }
-
 .offer-item:hover  .offer-title{
     color: #fff;
 }
@@ -381,7 +380,7 @@ visibility: visible;
 .awards{
     width: 100%;
     height: 45vh;
-    background-image: url(../Images/eee.jpeg);
+    background-image: url(../images/eee.jpeg);
     background-size: cover;
     background-attachment: fixed;
     position: relative;
@@ -497,7 +496,7 @@ visibility: visible;
     margin-top: -75px;
     width: 100%;
     height: 50vh;
-    background-image: url(../Images/eee.jpeg);
+    background-image: url(../images/eee.jpeg);
     background-attachment: fixed;  
     position: relative;
 }
@@ -516,7 +515,7 @@ visibility: visible;
     height: 80px;
     border: 1px solid gray;
     border-radius: 40px;
-    background-image: url(../Images/zizo.jpg);
+    background-image: url(../images/zizo.jpg);
     background-size: cover;
     float: left;
     margin-right: 20px;
